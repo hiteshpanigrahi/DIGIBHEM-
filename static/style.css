@@ -4,7 +4,7 @@ html {
 	margin: 0;
 	background: rgb(44, 47, 59);
 	background: -webkit-linear-gradient(to right, rgb(40, 59, 34), rgb(54, 60, 70), rgb(32, 32, 43));
-	background: linear-gradient(to right, rgb(41, 47, 78), rgb(70, 38, 112));
+	background: linear-gradient(to right, rgb(104, 65, 44), rgb(112, 38, 86));
 }
 
 .chat {
